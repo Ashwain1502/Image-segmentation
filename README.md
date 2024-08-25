@@ -12,7 +12,13 @@ A Python GUI application that can take an image as input and can be used to get 
 P.S. The bettere and precise marking in earlier steps leads to better extraction of the object.
 
 ## Example 
-<img alt="Picture" title="Step 1" src="/Images/pic.png" width="300px" height="250px">
+<img alt="Picture" title="Step 1" src="/Images/pic.png" width="350px" height="320px">
+<img alt="Picture" title="Step 1" src="/Images/step1.png" width="350px" height="320px">
+<img alt="Picture" title="Step 1" src="/Images/step2.png" width="350px" height="320px">
+<img alt="Picture" title="Step 1" src="/Images/final.png" width="350px" height="320px">
+
+
+<img alt="Picture" title="Step 1" src="/Images/results.png" width="350px" height="320px">
 
 > ## Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
