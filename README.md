@@ -1,5 +1,5 @@
 # Intoduction
-This project uses a min-cut max-flow algorithm to extract the foreground from the background in an image in Python.
+This project uses a min-cut max-flow algorithm to extract the foreground from the background in an image in Python. Then shows the object selected as result.
 
 ## Functions
 A Python GUI application that can take an image as input and can be used to get foreground from background.
